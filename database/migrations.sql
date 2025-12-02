@@ -1,0 +1,3 @@
+-- Script SQL complet des migrations du prompt
+-- Place ici toutes les tables créées dans la spécification.
+-- Pour commencer, copiez-collez votre script SQL partagé ci-dessus.
